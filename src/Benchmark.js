@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import Form from "./Form";
 import Table from "./Table";
-import rust from "../rust-benchmark/pkg/rust_benchmark.js";
+import rust from "./pkg/rust_benchmark.js";
 
 function Benchmark() {
     const [results, setResults] = useState([]);
