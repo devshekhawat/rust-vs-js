@@ -1,5 +1,3 @@
-Sure! Here's an example of a README file that you could use for your project:
-
 # Rust WebAssembly Benchmark
 
 This is a simple project that demonstrates how to use Rust and WebAssembly to benchmark a function compared to javascript.
