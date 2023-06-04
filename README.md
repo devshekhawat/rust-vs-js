@@ -1,4 +1,4 @@
-# Rust WebAssembly VS Javascipt Benchmark
+# Rust WebAssembly VS Javascript Benchmark
 
 This is a simple project that demonstrates how to use Rust and WebAssembly to benchmark a function compared to javascript.
 
